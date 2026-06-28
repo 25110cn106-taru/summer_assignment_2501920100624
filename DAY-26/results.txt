@@ -1,0 +1,20 @@
+==========================================
+          QUIZ RESULT REPORT              
+==========================================
+Name  : taru
+Score : 7 / 10
+Grade : B  (Good)
+------------------------------------------
+Detailed Answers:
+Q1: Your answer = B | Correct = B | CORRECT
+Q2: Your answer = C | Correct = C | CORRECT
+Q3: Your answer = A | Correct = A | CORRECT
+Q4: Your answer = D | Correct = D | CORRECT
+Q5: Your answer = A | Correct = B | WRONG
+Q6: Your answer = C | Correct = C | CORRECT
+Q7: Your answer = B | Correct = B | CORRECT
+Q8: Your answer = D | Correct = D | CORRECT
+Q9: Your answer = A | Correct = C | WRONG
+Q10: Your answer = D | Correct = C | WRONG
+==========================================
+

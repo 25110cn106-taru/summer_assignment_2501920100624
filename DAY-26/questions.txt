@@ -1,0 +1,60 @@
+What is the capital of India?
+A. Mumbai
+B. New Delhi
+C. Kolkata
+D. Chennai
+B
+Which keyword is used to create an object in Java?
+A. create
+B. make
+C. new
+D. build
+C
+What does JVM stand for?
+A. Java Virtual Machine
+B. Java Variable Method
+C. Java Verified Module
+D. Java Vision Model
+A
+Which data type stores true or false in Java?
+A. int
+B. char
+C. String
+D. boolean
+D
+What is the size of int in Java?
+A. 2 bytes
+B. 4 bytes
+C. 8 bytes
+D. 16 bytes
+B
+Which loop is guaranteed to execute at least once?
+A. for
+B. while
+C. do-while
+D. foreach
+C
+What symbol is used for single-line comments in Java?
+A. ##
+B. //
+C. --
+D. **
+B
+Which method is the entry point of a Java program?
+A. start()
+B. run()
+C. init()
+D. main()
+D
+What is the default value of a boolean in Java?
+A. true
+B. 1
+C. false
+D. null
+C
+Which package is automatically imported in Java?
+A. java.util
+B. java.io
+C. java.lang
+D. java.net
+C
